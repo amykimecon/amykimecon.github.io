@@ -21,7 +21,7 @@ repository               : "amykimecon/amykimecon.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "amypfp.png"
+  avatar           : "amypfp.jpg"
   name             : "Amy Kim"
   pronouns         : "she/her"  
   bio              : "Economics PhD Student @ Princeton | Immigration, Education, Inequality"
